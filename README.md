@@ -24,9 +24,6 @@
 
 <br/>
 
-**🏛️ National Cyber Security Academy (NCSA) · Air University Islamabad**  
-`Department of Cyber Security · BSCYS-F24-A · End Semester Project`
-
 </div>
 
 ---
@@ -351,20 +348,6 @@ Target firmware analyzed: **SH-Gateway-3000 v2.1.4**
 - [ ] Extend to TR-069, Zigbee, Z-Wave, BACnet, DNP3
 - [ ] Contribute IOCs to sector ISACs
 - [ ] Deploy to internet-facing VPS for real-world traffic capture
-
----
-
-## 👥 Team
-
-| Name | Student ID | Role |
-|---|---|---|
-| **Jarrar Hassan** | 241583 | System Architecture & AI Engine |
-| **Usman Hassan** | 241495 | Honeypot Development & Protocol Services |
-| **Arshman Abbas** | 241567 | Firmware RE & Vulnerability Assessment |
-
-> **Submitted to:** Mam Laraib Javed  
-> **Section:** BSCYS-F24-A · Air University Islamabad  
-> **Department:** National Cyber Security Academy (NCSA)
 
 ---
 
