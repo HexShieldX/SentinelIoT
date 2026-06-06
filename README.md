@@ -370,7 +370,7 @@ Target firmware analyzed: **SH-Gateway-3000 v2.1.4**
 
 ## ⚠️ Disclaimer
 
-> This project is developed **strictly for academic and research purposes** under the supervision of Air University Islamabad's National Cyber Security Academy. All honeypot testing was conducted in an isolated, controlled lab environment. The emulated device profiles are fictional composites. Do not deploy against unauthorized systems.
+> This project is developed **strictly for academic and research purposes** . All honeypot testing was conducted in an isolated, controlled lab environment. The emulated device profiles are fictional composites. Do not deploy against unauthorized systems.
 
 ---
 
