@@ -73,8 +73,7 @@ The system emulates a real-world IoT gateway device (SmartHome Inc. SH-Gateway-3
 |---|---|
 | 🎭 **Device Emulation** | Fully functional SH-Gateway-3000 IoT gateway honeypot |
 | 🌐 **Multi-Protocol Coverage** | Telnet, SSH, HTTP, MQTT, Modbus TCP, CoAP — simultaneously |
-| 🤖 **AI Threat Detection** | Isolation Forest anomaly detection with 94.3% classification accuracy |
-| 🔬 **Firmware RE** | Binwalk + Ghidra pipeline exposing hardcoded credentials & protocol weaknesses |
+| 🤖 **AI Threat Detection** | Isolation Forest anomaly detection with 94.3% classification accuracy 
 | 📊 **Real-Time Dashboard** | Live attack map, event feed, credential capture, protocol breakdown |
 | 🗺️ **Framework Mapping** | All findings mapped to OWASP IoT Top 10 & MITRE ATT&CK for ICS |
 | 🐳 **One-Command Deploy** | Full stack containerized via Docker Compose |
@@ -183,8 +182,7 @@ The honeypot emulates **SmartHome Inc. SH-Gateway-3000** (Firmware v2.1.4, S/N S
 | SVT002 | Unauthenticated MQTT Broker Access | MQTT | **8.6** | CWE-306 | Disclosed |
 | SVT003 | No Firmware Integrity Verification on OTA | HTTP | **9.3** | CWE-494 | Under Review |
 | SVT004 | Unauthenticated Modbus Register R/W | Modbus TCP | **8.2** | CWE-306 | ICS-CERT Filed |
-| SVT005 | Cleartext Telnet Authentication | Telnet | **7.8** | CWE-319 | Mitigated |
-| SVT006 | Firmware Version Disclosure Pre-Auth | HTTP | **5.3** | CWE-200 | Patch Pending |
+| SVT005 | Cleartext Telnet Authentication | Telnet | **7.8** | CWE-319 | Mitigated 
 
 ### OWASP IoT Top 10 Coverage
 
